@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
- ["4"]
+ ["burger", "fries", "pizza", "nuggets"]
   
   
 end
@@ -32,6 +32,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
+  "am" (0)
   
 end
 
